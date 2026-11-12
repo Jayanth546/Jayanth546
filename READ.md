@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="cybersecurity-banner.png" width="100%" alt="Jayanth Tripurani - Cybersecurity Professional Banner">
+</p>
+
 # Hi, I'm Jayanth Tripurani 👋
 
 ### Aspiring Cybersecurity Professional | MCA Cyber Security
